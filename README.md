@@ -1,7 +1,7 @@
 # Welcome arrival 🍻
-I'm a full-stack web developer and data engineer based in Shenzhen, China
+I'm a full-stack web developer and java software engineer based in Shenzhen, China
 
-As a very active open source contributor, I actively maintain the following projects
+As a very active open source contributor, I actively maintain the following projects, and usually I publish to the corresponding central repository,package manager or extension center
 
 | Project | Type | Description |
 | --- | --- | :--- |
@@ -19,6 +19,10 @@ I have founded the following organizations, you are welcome to join
 | [V-ACDM](https://github.com/V-ACDM) | Virtual A-CDM(Airport Collaborative Decision Making) system |
 | [LCL](https://github.com/lyrieek-client-lib) | Some of my own front-end components |
 -->
+<img src="https://badgen.net/github/license/lyrieek/lyrieek" />
+
+If you have any questions about me, please send email to me, looking forward to communicating with you
+
 Wish you happy.
 
-lyrieek
+lyrieek 
