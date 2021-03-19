@@ -19,9 +19,10 @@ I have founded the following organizations, you are welcome to join
 | [V-ACDM](https://github.com/V-ACDM) | Virtual A-CDM(Airport Collaborative Decision Making) system |
 | [LCL](https://github.com/lyrieek-client-lib) | Some of my own front-end components |
 -->
-<img src="https://badgen.net/github/license/lyrieek/lyrieek" />
 
 If you have any questions about me, please send email to me, looking forward to communicating with you
+
+<img src="https://badgen.net/github/license/lyrieek/lyrieek" />
 
 Wish you happy.
 
