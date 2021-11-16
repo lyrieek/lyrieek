@@ -1,7 +1,10 @@
 # Welcome arrival 🍻
-I'm a full-stack web developer and java software engineer based in Shenzhen, China
+I'm a full-stack web developer and java software engineer based in Shenzhen, China 🇨🇳
 
-As a very active open source contributor, I actively maintain the following projects, and usually I publish to the corresponding central repository,package manager or extension center
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyrieek&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyrieek&count_private=true&show_icons=true&theme=tokyonight)
+
+As a open source contributor, I actively maintain the following projects, and usually I publish to the corresponding central repository,package manager or extension center
 
 | Project | Type | Description |
 | --- | --- | :--- |
