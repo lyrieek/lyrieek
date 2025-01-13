@@ -8,9 +8,9 @@ As a open source contributor, I actively maintain the following projects, and us
 
 | Project | Type | Description |
 | --- | --- | :--- |
+| [entity-generator](https://github.com/lyrieek/entity-generator) | Entity Generator | Gradle Plugin: Generate an entity for MyBatis or Hibernate |
 | [lyrieek-git](https://github.com/lyrieek/lyrieek-git) | Workflow Tool | Powerful visualization site for Git |
 | [SSH-Plugin](https://github.com/lyrieek/SSH-Plugin) | IDE Plug-in | Connect to the ssh server remotely on the Intellij-IDEA |
-| [explorer](https://github.com/lyrieek/explorer) | Desktop App | File explorer based on electron |
 
 <!--
 I have founded the following organizations, you are welcome to join
